@@ -1,2 +1,2 @@
 Hello world
-[Resume](https://hobbsbr.github.io/Brian-Hobbs/Hobbs_Resume_.pdf)
+[Resume](https://hobbsbr.github.io/Hobbs_Resume_.pdf)
